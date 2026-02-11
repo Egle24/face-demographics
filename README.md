@@ -59,7 +59,7 @@ Projektas sugeneruoja:
   - lyčių pasiskirstymo diagramą
 
 ## Paleidimas (Google Colab)
-1. Atidarykite `notebooks/demo_colab.ipynb`.
+1. Atidarykite `notebooks/face_recognition.ipynb`.
 2. Paleiskite pirmą langelį, kuris įdiegia reikalingas bibliotekas.
 3. Įkelkite savo vaizdo įrašą naudodami Colab įkėlimo funkciją.
 4. Paleiskite analizės langelius.
@@ -79,4 +79,5 @@ Projektas sugeneruoja:
 Projektas sėkmingai demonstruoja, kaip naudojant dirbtinio intelekto metodus
 galima aptikti veidus vaizdo įrašuose ir įvertinti jų demografines savybes.
 Naudojant iš anksto apmokytus modelius, pasiekiami geri rezultatai be papildomo
+
 modelių mokymo.
